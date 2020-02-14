@@ -51,7 +51,7 @@
     "spawn_chance": 0,
     "avg_spawns": 0,
     "spawn_time": "N/A",
-    "multipliers": null,
+    "multipliers": "none",
     "weaknesses": [
       "Bug",
       "Ghost",
