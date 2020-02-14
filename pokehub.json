@@ -49,11 +49,9 @@
     "candy": "None",
     "egg": "Not in Eggs",
     "spawn_chance": 0,
-    "avg_spawns": 0,
+    "avg_spawns": 1,
     "spawn_time": "N/A",
-    "multipliers": [
-        1.58
-      ],
+    "multipliers": null,
     "weaknesses": [
       "Bug",
       "Ghost",
