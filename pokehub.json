@@ -91,9 +91,15 @@
     "prev_evolution": [{
       "num": "001",
       "name": "Bulbasaur"
-    }, {
+    }, 
+    {
       "num": "002",
       "name": "Ivysaur"
+    }]
+    ,
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 4,
@@ -182,6 +188,10 @@
     }, {
       "num": "005",
       "name": "Charmeleon"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 7,
