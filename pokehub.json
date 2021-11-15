@@ -312,4 +312,39 @@
       "name": "Butterfree"
     }]
   }]
-}
+},
+{
+    "id": 11,
+    "num": "011",
+    "name": "Metapod",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+    "type": [
+      "Bicho",
+      "Poison"
+    ],
+    "height": "0.70 m",
+    "weight": "9.9 kg",
+    "candy": "Metapod Candy",
+    "candy_count": 0,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.042,
+    "avg_spawns": 4.2,
+    "spawn_time": "07:00",
+    "multipliers": [
+      1.2,
+      1.6
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "010",
+      "name": "Caterpie"
+    }],
+    "next_evolution": [{
+      "num": "012",
+      "name": "Butterfree"
+    }]
+  },
