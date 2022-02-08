@@ -1,0 +1,30 @@
+{
+  "Medicamentos": [{
+    "id": 1,
+    "num": "001"
+    "name": "Albendazol"
+    ],
+    "Dosis": "La que el medico señale",
+    "Indicaciones terapeuticas": "Desparasitante",
+    "Mayor informaciòn en": "https://www.medicamentosplm.com/Home/productos/zentel_tabletas/160/101/46821/210"
+    ]
+  }, {
+    "id": 2,
+    "num": "002"
+    "name": "Ambroxol"
+    ],
+    "Dosis": "La que el medico señale",
+    "Indicaciones terapeuticas": "Expectorante",
+    "Mayor informaciòn en": "https://www.medicamentosplm.com/Home/Medicamentos_Sustancia/ambroxol/78"
+    ]
+  }, {
+    "id": 3,
+    "num": "003",
+    "name": "Azitromicina"
+    ],
+    "Dosis": "La que el medico señale",
+    "Indicaciones terapeuticas": "Infecciones del tracto respiratorio",
+    "Mayor informaciòn en": "https://www.medicamentosplm.com/Home/Medicamentos_Sustancia/azitromicina/121"
+    ]
+    
+  }
